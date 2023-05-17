@@ -1,0 +1,1 @@
+export { default as JsonPlaceholderService } from './JsonPlaceholderService.js';
